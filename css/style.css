@@ -1,0 +1,59 @@
+body {
+    background-image: url(/images/pexels-riccardo-bertolo-4245826.jpg);
+    background-color: #008080;
+    background-size: cover;
+}
+
+.container {
+    align-items: center;
+}
+
+.icon {
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 250px 60px 20px 60px;
+    color: #FEFBE7;
+}
+.fa-brands:hover {
+    color: #3A3845;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    color: #fff;
+    padding: 0 20px;
+}
+
+a {
+    color: #FCFFE7;
+    font-family: "Monserrat_Bold", sans-serif;
+}
+
+a:link {
+    text-decoration: none;
+  }
+  
+a:hover {
+    color: #630606;
+}
+
+h1 {
+    color: #fff;
+    font-family: "Monserrat-Black", sans-serif;
+    font-size: 4.5rem;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.link {
+    color: #fff;
+    align-items: center;
+    padding: 3% 18%;
+    z-index: -1;
+}
+
+
